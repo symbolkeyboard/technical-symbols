@@ -11,3 +11,165 @@ All symbols consist of official symbol characters, symbol names and meanings lis
 
 The easiest way to quickly **copy and paste symbols**.
 ### List of Technical Symbols
+- ⌚ Watch
+- ⌛ Hourglass
+- 〶 Circled Postal Mark
+- ᴴᴰ HD
+- ␢ Blank Symbol
+- ⎋ Broken Circle with Northwest Arrow
+- ⌀ Diameter Sign
+- ⌂ House
+- ⌦ Erase To the Right
+- ⌧ X In a Rectangle Box
+- ⌫ Erase To the Left
+- ⌬ Benzene Ring
+- ⌭ Cylindricity
+- ⌮ All Around-Profile
+- ⌯ Symmetry
+- ⌰ Total Runout
+- ⌱ Dimension Origin
+- ⌲ Conical Taper
+- ⌳ Slope
+- ⌴ Counterbore
+- ␣ Open Box
+- ⌵ Countersink
+- ⌶ Apl Functional Symbol I-Beam
+- ⌷ Apl Functional Symbol Squish Quad
+- ⌸ Apl Functional Symbol Quad Equal
+- ⌹ Apl Functional Symbol Quad Divide
+- ⌺ Apl Functional Symbol Quad Diamond
+- ⌻ Apl Functional Symbol Quad Jot
+- ⌼ Apl Functional Symbol Quad Circle
+- ⌽ Apl Functional Symbol Circle Stile
+- ⌾ Apl Functional Symbol Circle Jot
+- ⌿ Apl Functional Symbol Slash Bar
+- ⍀ Apl Functional Symbol Backslash Bar
+- ⍁ Apl Functional Symbol Quad Slash
+- ⍂ Apl Functional Symbol Quad Backslash
+- ⍃ Apl Functional Symbol Quad Less-Than
+- ⍄ Apl Functional Symbol Quad Greater-Than
+- ⍅ Apl Functional Symbol Leftwards Vane
+- ⍆ Apl Functional Symbol Rightwards Vane
+- ⍇ Apl Functional Symbol Quad Leftwards Arrow
+- ⍈ Apl Functional Symbol Quad Rightwards Arrow
+- ⍉ Apl Functional Symbol Circle Backslash
+- ⍊ Apl Functional Symbol Down Tack Underbar
+- ⍋ Apl Functional Symbol Delta Stile
+- ⍌ Apl Functional Symbol Quad Down Caret
+- ⍍ Apl Functional Symbol Quad Delta
+- ⍎ Apl Functional Symbol Down Tack Jot
+- ⍏ Apl Functional Symbol Upwards Vane
+- ⍐ Apl Functional Symbol Quad Upwards Arrow
+- ⍑ Apl Functional Symbol Up Tack Overbar
+- ⍒ Apl Functional Symbol Del Stile
+- ⍓ Apl Functional Symbol Quad Up Caret
+- ⍔ Apl Functional Symbol Quad Del
+- ⍕ Apl Functional Symbol Up Tack Jot
+- ⍖ Apl Functional Symbol Downwards Vane
+- ⍗ Apl Functional Symbol Quad Downwards Arrow
+- ⍘ Apl Functional Symbol Quote Underbar
+- ⍙ Apl Functional Symbol Delta Underbar
+- ⍚ Apl Functional Symbol Diamond Underbar
+- ⍛ Apl Functional Symbol Jot Underbar
+- ⍜ Apl Functional Symbol Circle Underbar
+- ⍝ Apl Functional Symbol Up Shoe Jot
+- ⍞ Apl Functional Symbol Quote Quad
+- ⍟ Apl Functional Symbol Circle Star
+- ⍠ Apl Functional Symbol Quad Colon
+- ⍡ Apl Functional Symbol Up Tack Diaeresis
+- ⍢ Apl Functional Symbol Del Diaeresis
+- ⍣ Apl Functional Symbol Star Diaeresis
+- ⍤ Apl Functional Symbol Jot Diaeresis
+- ⍥ Apl Functional Symbol Circle Diaeresis
+- ⍦ Apl Functional Symbol Down Shoe Stile
+- ⍧ Apl Functional Symbol Left Shoe Stile
+- ⍨ Apl Functional Symbol Tilde Diaeresis
+- ⍩ Apl Functional Symbol Greater-Than Diaeresis
+- ⍪ Apl Functional Symbol Comma Bar
+- ⍫ Apl Functional Symbol Del Tilde
+- ⍬ Apl Functional Symbol Zilde
+- ⍭ Apl Functional Symbol Stile Tilde
+- ⍮ Apl Functional Symbol Semicolon Underbar
+- ⍯ Apl Functional Symbol Quad Not Equal
+- ⍰ Apl Functional Symbol Quad Question
+- ⍱ Apl Functional Symbol Down Caret Tilde
+- ⍲ Apl Functional Symbol Up Caret Tilde
+- ⍳ Apl Functional Symbol Iota
+- ⍴ Apl Functional Symbol Rho
+- ⍵ Apl Functional Symbol Omega
+- ⍶ Apl Functional Symbol Alpha Underbar
+- ⍷ Apl Functional Symbol Epsilon Underbar
+- ⍸ Apl Functional Symbol Iota Underbar
+- ⍹ Apl Functional Symbol Omega Underbar
+- ⍺ Apl Functional Symbol Alpha
+- ␛ Symbol for Escape
+- ␡ Symbol for Delete
+- ␚ Symbol for Substitute
+- ␟ Symbol for Unit Separator
+- ␘ Symbol for Cancel
+- ␠ Symbol for Space
+- ␤ Symbol for Newline
+- ␋ Symbol for Vertical Tabulation
+- ␌ Symbol for Form Feed
+- ␍ Symbol for Carriage Return
+- ␎ Symbol for Shift Out
+- ␏ Symbol for Shift In
+- ␐ Symbol for Data Link Escape
+- ␑ Symbol for Device Control One
+- ␒ Symbol for Device Control Two
+- ␓ Symbol for Device Control Three
+- ␔ Symbol for Device Control Four
+- ␕ Symbol for Negative Acknowledge
+- ␖ Symbol for Synchronous Idle
+- ␗ Symbol for End of Transmission Block
+- ␙ Symbol for End of Medium
+- ␜ Symbol for File Separator
+- ␝ Symbol for Group Separator
+- ␞ Symbol for Record Separator
+- ␀ Symbol for Null
+- ␁ Symbol for Start of Heading
+- ␂ Symbol for Start of Text
+- ␃ Symbol for End of Text
+- ␄ Symbol for End of Transmission
+- ␅ Symbol for Enquiry
+- ␆ Symbol for Acknowledge
+- ␇ Symbol for Bell
+- ␈ Symbol for Backspace
+- ␉ Symbol for Horizontal Tabulation
+- ␊ Symbol for Line Feed
+- ⌑ Square Lozenge
+- ⌒ Arc
+- ⌓ Segment
+- ⌔ Sector
+- ⌕ Telephone Recorder
+- ⌖ Position Indicator
+- ﹡ Small Asterisk
+- ﹟ Small Number Sign
+- ⌗ Viewdata Square
+- ⌘ Place of Interest Sign
+- ﹘ Small Em Dash
+- ⌃ Up Arrowhead
+- ⌄ Down Arrowhead
+- ⌅ Projective
+- ⌆ Perspective
+- ⌇ Wavy Line
+- ⌈ Left Ceiling
+- ⌉ Right Ceiling
+- ⌊ Left Floor
+- ⌋ Right Floor
+- ⌌ Bottom Right Crop
+- ⌍ Bottom Left Crop
+- ⌎ Top Right Crop
+- ⌏ Top Left Crop
+- ⌐ Reversed Not Sign
+- ⌙ Turned Not Sign
+- ⌜ Top Left Corner
+- ⌝ Top Right Corner
+- ⌞ Bottom Left Corner
+- ⌟ Bottom Right Corner
+- ⌠ Top Half Integral
+- ⌡ Bottom Half Integral
+- ⌢ Frown
+- ⌣ Smile
+- ⌤ Up Arrowhead Between Two Horizontal Bars
+- ⌥ Option Key
